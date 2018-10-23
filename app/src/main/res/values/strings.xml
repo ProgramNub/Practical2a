@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical 2</string>
+    <string name="header_main">Message Received</string>
+    <string name="button_main">SEND</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+</resources>
